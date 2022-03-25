@@ -3,7 +3,7 @@ owner: FourthEstateOrg # Your GitHub organization or username, where this reposi
 repo: status.fourthestate.org # The name of this repository
 
 sites:
-  - name: Fourth Estate
+  - name: Fourth Estate® Website
     url: https://www.fourthestate.org
   - name: Fourth Estate® Newsroom 
     url: https://newsroom.fourthestate.org
@@ -31,6 +31,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Help Desk
+      href: https://helpdesk.fourthestate.org
     - title: Fourth Estate®
       href: https://www.fourthestate.org
 #    - title: GitHub
