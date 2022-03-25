@@ -4,13 +4,20 @@ repo: status.fourthestate.org # The name of this repository
 
 sites:
   - name: Fourth Estate
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://www.fourthestate.org
+  - name: Fourth Estate® Newsroom 
+    url: https://newsroom.fourthestate.org
+  - name: Fourth Estate® NewsHub 
+    url: https://newshub.fourthestate.org
+  - name: Fourth Estate® DailyNewsBrief 
+    url: https://dailynewsbrief.com
+  - name: Help Desk
+    url: https://helpdesk.fourthestate.org
+  - name: Job Site
+    url: https://jobs.fourthestate.org
+   - name: Calendar
+    url: https://calendar.fourthestate.org/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
