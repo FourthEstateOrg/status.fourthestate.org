@@ -21,6 +21,7 @@ sites:
 status-website:
   cname: status.fourthestate.org
   logoUrl: https://raw.githubusercontent.com/FourthEstateOrg/status.fourthestate.org/master/assets/FE_logo_glyph_color.svg
+  favicon: https://raw.githubusercontent.com/FourthEstateOrg/status.fourthestate.org/master/assets/FE_logo_glyph_color.png
   faviconSvg: https://raw.githubusercontent.com/FourthEstateOrg/status.fourthestate.org/master/assets/FE_logo_glyph_color.svg
   name: System Status
   navbar:
