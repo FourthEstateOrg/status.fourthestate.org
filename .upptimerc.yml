@@ -15,7 +15,7 @@ sites:
     url: https://helpdesk.fourthestate.org
   - name: Job Site
     url: https://jobs.fourthestate.org
-   - name: Calendar
+  - name: Calendar
     url: https://calendar.fourthestate.org/
 
 
