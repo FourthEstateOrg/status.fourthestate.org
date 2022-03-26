@@ -41,6 +41,10 @@ status-website:
 
 assignees:
   - FourthEstateSupport
+  
+commitMessages:
+  commitAuthorName: "Fourth Estate Support"
+  commitAuthorEmail: "support@fourthestate.org"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
