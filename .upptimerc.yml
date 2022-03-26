@@ -19,7 +19,6 @@ sites:
   - name: Calendar
     url: https://calendar.fourthestate.org/
 
-
 status-website:
   cname: status.fourthestate.org
   logoUrl: https://raw.githubusercontent.com/FourthEstateOrg/status.fourthestate.org/master/assets/FE_logo_glyph_color.svg
@@ -35,6 +34,9 @@ status-website:
       href: https://www.fourthestate.org
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - FourthEstateOrg
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
