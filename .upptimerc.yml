@@ -18,6 +18,10 @@ sites:
     url: https://jobs.fourthestate.org
   - name: Calendar
     url: https://calendar.fourthestate.org/
+  - name: Mail Servers
+    url: https://mail.fourthestate.org/
+  - name: Ceriph™ [matrix]
+    url: https://app.fourthestate.chat/
 
 status-website:
   cname: status.fourthestate.org
