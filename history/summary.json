@@ -76,19 +76,19 @@
     "url": "https://helpdesk.fourthestate.org",
     "icon": "https://favicons.githubusercontent.com/helpdesk.fourthestate.org",
     "slug": "help-desk",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 914,
-    "timeDay": 914,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "93.34%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "93.34%",
+    "time": 890,
+    "timeDay": 890,
+    "timeWeek": 890,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2022-03-26": 0
+      "2022-03-26": 89
     }
   },
   {
