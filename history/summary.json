@@ -76,18 +76,20 @@
     "url": "https://helpdesk.fourthestate.org",
     "icon": "https://favicons.githubusercontent.com/helpdesk.fourthestate.org",
     "slug": "help-desk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 961,
-    "timeWeek": 961,
-    "timeMonth": 961,
-    "timeYear": 961,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 914,
+    "timeDay": 914,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
+    "dailyMinutesDown": {
+      "2022-03-26": 0
+    }
   },
   {
     "name": "Job Site",
