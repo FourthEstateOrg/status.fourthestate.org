@@ -10,10 +10,6 @@ sites:
     url: https://newshub.fourthestate.org
   - name: Fourth Estate® DailyNewsBrief
     url: https://dailynewsbrief.com
-  - name: Fourth Estate® Stocks API
-    url: https://stocks.fourthestate.org
-  - name: Fourth Estate® Weather API
-    url: https://weather.fourthestate.org
   - name: Fourth Estate® Shop
     url: https://shop.fourthestate.org/
   - name: Help Desk
