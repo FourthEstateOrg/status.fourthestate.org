@@ -4,12 +4,16 @@ repo: status.fourthestate.org
 sites:
   - name: Fourth Estate® Website
     url: https://www.fourthestate.org
-  - name: Fourth Estate® Newsroom 
+  - name: Fourth Estate® Newsroom
     url: https://newsroom.fourthestate.org
-  - name: Fourth Estate® NewsHub 
+  - name: Fourth Estate® NewsHub
     url: https://newshub.fourthestate.org
-  - name: Fourth Estate® DailyNewsBrief 
+  - name: Fourth Estate® DailyNewsBrief
     url: https://dailynewsbrief.com
+  - name: Fourth Estate® Stocks API
+    url: https://stocks.fourthestate.org
+  - name: Fourth Estate® Weather API
+    url: https://weather.fourthestate.org
   - name: Fourth Estate® Shop
     url: https://shop.fourthestate.org/
   - name: Help Desk
