@@ -116,12 +116,12 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.56%",
     "time": 998,
     "timeDay": 1583,
     "timeWeek": 1695,
-    "timeMonth": 1056,
+    "timeMonth": 1010,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2022-05-15": 23,
@@ -155,18 +155,20 @@
     "url": "https://calendar.fourthestate.org/",
     "icon": "https://favicons.githubusercontent.com/calendar.fourthestate.org",
     "slug": "calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 271,
-    "timeWeek": 227,
-    "timeMonth": 253,
-    "timeYear": 231,
-    "dailyMinutesDown": {}
+    "time": 234,
+    "timeDay": 369,
+    "timeWeek": 257,
+    "timeMonth": 260,
+    "timeYear": 234,
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "Mail Servers",
