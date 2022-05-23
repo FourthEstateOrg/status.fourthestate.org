@@ -22,9 +22,9 @@
     "url": "https://newsroom.fourthestate.org",
     "icon": "https://favicons.githubusercontent.com/newsroom.fourthestate.org",
     "slug": "fourth-estate-newsroom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 206,
     "timeMonth": 174,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "Fourth Estate® NewsHub",
@@ -156,11 +158,11 @@
     "icon": "https://favicons.githubusercontent.com/calendar.fourthestate.org",
     "slug": "calendar",
     "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "50.00%",
+    "uptime": "97.26%",
+    "uptimeDay": "90.48%",
     "uptimeWeek": "76.86%",
     "uptimeMonth": "94.68%",
-    "uptimeYear": "97.24%",
+    "uptimeYear": "97.26%",
     "time": 235,
     "timeDay": 263,
     "timeWeek": 252,
