@@ -4,18 +4,20 @@
     "url": "https://www.fourthestate.org",
     "icon": "https://favicons.githubusercontent.com/www.fourthestate.org",
     "slug": "fourth-estate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 290,
     "timeWeek": 287,
     "timeMonth": 207,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 4
+    }
   },
   {
     "name": "Fourth Estate® Newsroom",
@@ -58,54 +60,60 @@
     "url": "https://dailynewsbrief.com",
     "icon": "https://favicons.githubusercontent.com/dailynewsbrief.com",
     "slug": "fourth-estate-daily-news-brief",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 409,
     "timeWeek": 300,
     "timeMonth": 289,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 3
+    }
   },
   {
     "name": "Cronkite VPS Cluster",
     "url": "https://cronkite.fourthestate.org/",
     "icon": "https://favicons.githubusercontent.com/cronkite.fourthestate.org",
     "slug": "cronkite-vps-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 908,
     "timeDay": 961,
     "timeWeek": 1291,
     "timeMonth": 1058,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 3
+    }
   },
   {
     "name": "Fourth Estate® Website",
     "url": "https://www.fourthestate.org",
     "icon": "https://favicons.githubusercontent.com/www.fourthestate.org",
     "slug": "fourth-estate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 290,
     "timeWeek": 287,
     "timeMonth": 207,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 4
+    }
   },
   {
     "name": "Help Desk",
@@ -136,10 +144,10 @@
     "url": "https://jobs.fourthestate.org",
     "icon": "https://favicons.githubusercontent.com/jobs.fourthestate.org",
     "slug": "job-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
@@ -147,16 +155,18 @@
     "timeWeek": 720,
     "timeMonth": 363,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 2
+    }
   },
   {
     "name": "Calendar",
     "url": "https://calendar.fourthestate.org/",
     "icon": "https://favicons.githubusercontent.com/calendar.fourthestate.org",
     "slug": "calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +175,9 @@
     "timeWeek": 319,
     "timeMonth": 287,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 0
+    }
   },
   {
     "name": "Mail Servers",
