@@ -58,18 +58,20 @@
     "url": "https://dailynewsbrief.com",
     "icon": "https://favicons.githubusercontent.com/dailynewsbrief.com",
     "slug": "fourth-estate-daily-news-brief",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 475,
-    "timeWeek": 368,
-    "timeMonth": 300,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 263,
+    "timeDay": 590,
+    "timeWeek": 399,
+    "timeMonth": 312,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2022-06-28": 0
+    }
   },
   {
     "name": "Cronkite VPS Cluster",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 900,
     "timeDay": 877,
-    "timeWeek": 1095,
+    "timeWeek": 1002,
     "timeMonth": 1095,
     "timeYear": 900,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "99.82%",
     "time": 1009,
     "timeDay": 781,
-    "timeWeek": 892,
+    "timeWeek": 909,
     "timeMonth": 846,
     "timeYear": 1009,
     "dailyMinutesDown": {
@@ -160,7 +162,7 @@
     "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 213,
-    "timeWeek": 291,
+    "timeWeek": 279,
     "timeMonth": 293,
     "timeYear": 253,
     "dailyMinutesDown": {}
