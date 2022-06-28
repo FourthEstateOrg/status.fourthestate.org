@@ -58,19 +58,19 @@
     "url": "https://dailynewsbrief.com",
     "icon": "https://favicons.githubusercontent.com/dailynewsbrief.com",
     "slug": "fourth-estate-daily-news-brief",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 590,
-    "timeWeek": 399,
-    "timeMonth": 312,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 266,
+    "timeDay": 618,
+    "timeWeek": 422,
+    "timeMonth": 322,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-06-28": 0
+      "2022-06-28": 20
     }
   },
   {
