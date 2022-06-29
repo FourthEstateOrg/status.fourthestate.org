@@ -12,8 +12,6 @@ sites:
     url: https://dailynewsbrief.com
   - name: Cronkite VPS Cluster
     url: https://cronkite.fourthestate.org/
-  - name: Fourth Estate® Website
-    url: https://www.fourthestate.org
   - name: Help Desk
     url: https://helpdesk.fourthestate.org
   - name: Job Site
