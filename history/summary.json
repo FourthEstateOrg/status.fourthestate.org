@@ -58,18 +58,20 @@
     "url": "https://dailynewsbrief.com",
     "icon": "https://favicons.githubusercontent.com/dailynewsbrief.com",
     "slug": "fourth-estate-daily-news-brief",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 701,
+    "timeDay": 713,
     "timeWeek": 482,
     "timeMonth": 344,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "Cronkite VPS Cluster",
